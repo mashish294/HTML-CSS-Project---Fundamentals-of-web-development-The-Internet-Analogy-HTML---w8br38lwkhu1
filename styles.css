@@ -16,7 +16,7 @@ body{
  .phone {
     position: relative;
     overflow: hidden;
-    border: 3px solid #eee;
+    border: 3px solid red;
     border-radius: 15px;
     height: 600px;
     width: 340px;   
@@ -50,7 +50,7 @@ nav ul{
     height: 60px;   
 }
 nav li{
-    background-color:#777;
+    background-color:white;
     cursor: pointer;
     flex: 1;
     padding: 10px;
